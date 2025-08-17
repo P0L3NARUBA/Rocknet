@@ -28,11 +28,10 @@
 ---
 
 ## 🎯 Current Goals
-- Adding Text Filtering API
-- Doing a Proper Frontend 
+- Doing a Frontend 
 
 ## ⚠️ Current Issues
 - The loading screen lacks informative details compared to the actual game.  
 - Numerous feature flags (FFlags) are missing.  
-  - The jump animation behaves oddly.  
+  - The animations behaves oddly.  
   - Emulated devices don’t function properly, and the thumbstick is unusable.
