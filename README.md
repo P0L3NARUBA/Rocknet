@@ -9,11 +9,11 @@
 *Name was inspired by RakNet*
 
 **To install the server, refer to [INSTALLING.md](/INSTALLING.md)**<br>
-   - Make sure to read it properly so you wont face with any issues.
+   - Make sure to read it thoroughly to avoid any issues.
 
-**Having any problems? you can get help at [our discord server](https://www.discord.gg/rVrYHdrbsp) or at the [Issues](https://github.com/P0L3NARUBA/Rocknet/issues)**<br>
+**Experiencing problems? You can get help via [our Discord server](https://www.discord.gg/rVrYHdrbsp) or the [Issues](https://github.com/P0L3NARUBA/Rocknet/issues) section.**
 
-**Every contribution you make will help the project move forward, and if you'd like to help us, we're always open to it!**
+**Every contribution moves the project forward — we're always open to new helpers!**
 
 # Table of Contents
 1. [🔨 Tools Used](#-tools-used)
