@@ -43,7 +43,7 @@
 
 9. Open that database and click **Import** at the top menu.
 
-10. Click **Choose File**, select **rockdb.sql**, then click the **Import** button at the bottom.
+10. Click **Choose File**, select **rocknetdb.sql**, then click the **Import** button at the bottom.
 
 ✅ **Here we go! You've successfully installed the Rocknet!**
 
