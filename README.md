@@ -28,10 +28,12 @@
 ---
 
 ## 🎯 Current Goals
-- Doing a Frontend 
+- Creating a Frontend
+- 
+
 
 ## ⚠️ Current Issues
-- The loading screen lacks informative details compared to the actual game.  
-- Numerous feature flags (FFlags) are missing.  
+- In Roblox Studio, the Chat won't appear but in Client it does.
+- Backend Needs proper FFlags
   - The animations behaves oddly.  
   - Emulated devices don’t function properly, and the thumbstick is unusable.
